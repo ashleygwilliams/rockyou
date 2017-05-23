@@ -1,0 +1,19 @@
+{
+  "name": "rockyou",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "mocha test/*.js",
+    "posttest": "npm run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1",
+    "standard": "^10.0.2"
+  }
+}
