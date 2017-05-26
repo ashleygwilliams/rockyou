@@ -1,6 +1,8 @@
 # rockyou
 > exports the rockyou passwords as an array for security testing
 
+[![Build Status](https://travis-ci.org/ashleygwilliams/rockyou.svg?branch=master)](https://travis-ci.org/ashleygwilliams/rockyou)
+
 ## installation
 
 ```
