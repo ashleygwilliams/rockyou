@@ -1,5 +1,5 @@
 # rockyou
-> exports the rockyou passwords as an array for security testing
+> exports the rockyou passwords as a set for security testing
 
 ## installation
 
